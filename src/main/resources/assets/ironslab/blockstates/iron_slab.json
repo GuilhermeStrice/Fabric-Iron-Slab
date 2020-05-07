@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"type=bottom": { "model": "ironslab:block/iron_slab" },
+		"type=top": { "model": "ironslab:block/iron_slab_top" },
+		"type=double": { "model": "block/iron_block" }
+	}
+}
